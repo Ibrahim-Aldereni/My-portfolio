@@ -39,7 +39,7 @@ import {
   UncontrolledTooltip,
 } from "reactstrap";
 import reactWhite from "assets/img/brand/logo.png";
-import argonReact from "assets/img/brand/argon-react.png";
+import argonReact from "assets/img/brand/logo2.png";
 
 class DemoNavbar extends React.Component {
   componentDidMount() {
